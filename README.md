@@ -3,15 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vipon4ik&label=Profile%20views&color=0e75b6&style=flat" alt="vipon4ik" /> </p>
 
-- 🌱 I’m currently learning **in GoIT**
-
 - 💬 Ask me about **web development**
 
 - 📫 How to reach me **umniyd@gmai.com, <a href="https://t.me/brktrx" target="_blank">telegram</a>**
 
 - 📄 Know about my experiences on my **<a href="https://vipon4ik.github.io/resume/" target="_blank">resume</a>**
-
-- ⚡ Fun fact **i don't like python)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
