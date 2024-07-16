@@ -5,7 +5,7 @@
 
 - 💬 Ask me about **web development**
 
-- 📫 How to reach me **umniyd@gmai.com, <a href="https://t.me/brktrx" target="_blank">telegram</a>**
+- 📫 How to reach me **umniyd@gmail.com, <a href="https://t.me/brktrx" target="_blank">telegram</a>**
 
 - 📄 Know about my experiences on my **<a href="https://vipon4ik.github.io/resume/" target="_blank">resume</a>**
 
